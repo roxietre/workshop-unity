@@ -109,3 +109,6 @@ if (Input.GetMouseButton(0))
 <img src="https://imgs.search.brave.com/2y2GvJ-vWhdzDNvtUCfOSac-ZY2iyAFrK63Vs7t8V98/rs:fit:766:435:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvdVNEaVNC/RlJOVVplVS9naXBo/eS5naWY.gif" alt="backround image">
 </details>
 
+## Step 6 -following worskhop
+
+[https://github.com/roxietre/workshop_unity2](https://github.com/roxietre/workshop_unity2)
